@@ -1,3 +1,3 @@
 # par_king
 
-A new Flutter project.
+A parking app built for rbs shark tank using flutter
